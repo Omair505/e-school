@@ -1,0 +1,68 @@
+figma to html
+
+online platform
+
+
+figma.com{mail$pass}
+
+
+2 vabe file pawa jay
+1.file
+2.link
+
+asset-------
+image
+font{google font}
+icon{meta tag generator}
+logo
+
+section define----
+
+
+layout----
+
+
+rules of cooding
+code commenting
+sementic
+reuse-block
+css hei
+
+
+seo
+h1-h6
+p
+
+
+
+
+
+
+font{google font}
+
+
+popins 400 500 700
+
+font-family: 'Poppins', sans-serif;
+
+
+roboto 400
+
+
+font-family: 'Roboto', sans-serif;
+
+
+color
+
+green  #21B573
+
+black  #000000
+org    #FD511A
+
+white   #FFFFFF
+
+<button type="button" class="btn btn-common btnh">Sign in</button>
+
+
+
+
